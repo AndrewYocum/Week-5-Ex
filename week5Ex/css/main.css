@@ -1,0 +1,47 @@
+body{
+
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.container {
+  border-radius: none;
+}
+
+.container-fluid {
+  margin: 0 0;
+  border: 0 0;
+  padding: 0 0;
+  border-radius: none;
+}
+
+.col-md-4 {
+  text-align: center;
+}
+
+.btn {
+  background-color: black;
+  color: white;
+  width: 80px;
+  border: none;
+}
+
+.navbar-default {
+  background-color: grey;
+  border-color: none;
+  border-radius: 0;
+}
+.img {
+  width: 100px;
+  height: 100px;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+}
